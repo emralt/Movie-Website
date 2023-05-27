@@ -1,4 +1,4 @@
-# Movie Website HTLM-CSS-JS Responsive Project
+# Movie Website HTML-CSS-JS Responsive Project
 
 ## Languages and Tools Which I Used
 - HTML
